@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoPlay</string>
+
+    <string name="main_txt">本机所有视频文件</string>
+    <string name="action1">系统扫描（默认）</string>
+    <string name="action2">文件扫描（较慢）</string>
+    <string name="menu_context1">使用系统播放器播放</string>
+    <string name="menu_context2">使用VideoView播放</string>
+    <string name="menu_context3">使用Surface+Media播放</string>
+</resources>
